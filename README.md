@@ -1,6 +1,6 @@
 # OMERO.server and OMERO.web (docker-compose)
 
-[![Actions Status](https://github.com/jburel/docker-example-omero/workflows/main.yml/badge.svg)](https://github.com/jburel/docker-example-omero/actions)
+[![Actions Status](https://github.com/jburel/docker-example-omero/workflows/Build/badge.svg)](https://github.com/jburel/docker-example-omero/actions)
 
 This is an example of running OMERO.server and OMERO.web in Docker.
 
